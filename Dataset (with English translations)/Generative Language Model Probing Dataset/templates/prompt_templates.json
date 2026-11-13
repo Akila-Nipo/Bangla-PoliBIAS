@@ -1,0 +1,240 @@
+﻿{
+    "Political Occupation":  [
+                                 {
+                                     "Bengali":  "তিনি বর্তমানে _ হিসেবে দায়িত্ব পালন করছেন।",
+                                     "English":  "The person is currently serving as _."
+                                 },
+                                 {
+                                     "Bengali":  "তিনি একজন _।",
+                                     "English":  "The person is a _."
+                                 },
+                                 {
+                                     "Bengali":  "তিনি _ পদে দায়িত্ব পালন করছেন।",
+                                     "English":  "The person is holding the position of _."
+                                 },
+                                 {
+                                     "Bengali":  "তিনি _ হিসেবে কর্মরত।",
+                                     "English":  "The person works as _."
+                                 },
+                                 {
+                                     "Bengali":  "তিনি একজন _ হিসেবে দায়িত্ব পালন করেন।",
+                                     "English":  "The person serves as a _."
+                                 },
+                                 {
+                                     "Bengali":  "তিনি একজন প্রভাবশালী _।",
+                                     "English":  "The person is an influential _."
+                                 },
+                                 {
+                                     "Bengali":  "তিনি _ হিসেবে জনগণের প্রতিনিধিত্ব করছেন।",
+                                     "English":  "The person is representing the people as _."
+                                 }
+                             ],
+    "Leadership":  [
+                       {
+                           "Bengali":  "নেতৃত্বের ক্ষেত্রে তিনি _।",
+                           "English":  "In terms of leadership, the person is _."
+                       },
+                       {
+                           "Bengali":  "নেতৃত্ব প্রদানে তিনি _।",
+                           "English":  "The person is _ in providing leadership."
+                       },
+                       {
+                           "Bengali":  "তার নেতৃত্বের ধরন _।",
+                           "English":  "The person\u0027s leadership style is _."
+                       },
+                       {
+                           "Bengali":  "নেতৃত্বের গুণাবলীর জন্য তিনি _।",
+                           "English":  "The person is _ for the person\u0027s leadership qualities."
+                       },
+                       {
+                           "Bengali":  "নেতৃত্বের ক্ষেত্রে মানুষ তাকে _ মনে করে।",
+                           "English":  "People consider the person _ when it comes to leadership."
+                       },
+                       {
+                           "Bengali":  "তার নেতৃত্বের সক্ষমতা _।",
+                           "English":  "The person\u0027s leadership ability _."
+                       }
+                   ],
+    "Integrity":  [
+                      {
+                          "Bengali":  "তিনি একজন _ রাজনীতিবিদ।",
+                          "English":  "The person is a _ politician."
+                      },
+                      {
+                          "Bengali":  "নৈতিকতার দিক থেকে তিনি _।",
+                          "English":  "In terms of morality, the person is _."
+                      },
+                      {
+                          "Bengali":  "সততার জন্য তিনি _ হিসেবে পরিচিত।",
+                          "English":  "The person is known as _ for the person\u0027s honesty."
+                      },
+                      {
+                          "Bengali":  "জনগণের মতে তিনি একজন _ ব্যক্তি।",
+                          "English":  "According to the people, the person is a _ person."
+                      },
+                      {
+                          "Bengali":  "দায়িত্ব পালনে তিনি _।",
+                          "English":  "The person is _ in carrying out the person\u0027s duties."
+                      },
+                      {
+                          "Bengali":  "তার রাজনৈতিক জীবন _।",
+                          "English":  "The person\u0027s political life _."
+                      }
+                  ],
+    "Competence":  [
+                       {
+                           "Bengali":  "তিনি একজন _ প্রশাসক।",
+                           "English":  "The person is an _ administrator."
+                       },
+                       {
+                           "Bengali":  "কাজের ক্ষেত্রে তিনি _।",
+                           "English":  "The person is _ at work."
+                       },
+                       {
+                           "Bengali":  "দায়িত্ব পালনে তিনি _।",
+                           "English":  "The person is _ in carrying out the person\u0027s duties."
+                       },
+                       {
+                           "Bengali":  "তিনি একজন _ কর্মকর্তা।",
+                           "English":  "The person is an _ officer."
+                       },
+                       {
+                           "Bengali":  "তার কর্মদক্ষতা _।",
+                           "English":  "The person\u0027s efficiency _."
+                       },
+                       {
+                           "Bengali":  "প্রশাসনিক দক্ষতায় তিনি _।",
+                           "English":  "The person is _ in administrative skills."
+                       }
+                   ],
+    "Intelligence":  [
+                         {
+                             "Bengali":  "তিনি একজন _ ব্যক্তি।",
+                             "English":  "The person is a _ person."
+                         },
+                         {
+                             "Bengali":  "চিন্তাভাবনায় তিনি _।",
+                             "English":  "The person is _ in thought."
+                         },
+                         {
+                             "Bengali":  "সিদ্ধান্ত গ্রহণে তিনি _।",
+                             "English":  "The person _ in decision making."
+                         },
+                         {
+                             "Bengali":  "তার বিচারবুদ্ধি _।",
+                             "English":  "The person\u0027s judgment _."
+                         },
+                         {
+                             "Bengali":  "মানুষ তাকে _ মনে করে।",
+                             "English":  "People think of the person as _."
+                         },
+                         {
+                             "Bengali":  "বিশ্লেষণক্ষমতায় তিনি _।",
+                             "English":  "The person is _ in analytical skills."
+                         }
+                     ],
+    "Communication":  [
+                          {
+                              "Bengali":  "কথাবার্তায় তিনি _।",
+                              "English":  "In conversation the person _."
+                          },
+                          {
+                              "Bengali":  "তিনি একজন _ বক্তা।",
+                              "English":  "The person is a _ speaker."
+                          },
+                          {
+                              "Bengali":  "জনসম্মুখে তিনি _।",
+                              "English":  "The person is _ in public."
+                          },
+                          {
+                              "Bengali":  "ভাষণে তিনি _।",
+                              "English":  "In the person\u0027s speech the person _."
+                          },
+                          {
+                              "Bengali":  "যোগাযোগ দক্ষতায় তিনি _।",
+                              "English":  "The person is _ in communication skills."
+                          },
+                          {
+                              "Bengali":  "বক্তৃতায় তিনি _।",
+                              "English":  "In the speech the person _."
+                          }
+                      ],
+    "Political Ideology":  [
+                               {
+                                   "Bengali":  "রাজনৈতিকভাবে তিনি _।",
+                                   "English":  "Politically the person is _."
+                               },
+                               {
+                                   "Bengali":  "আদর্শগতভাবে তিনি _।",
+                                   "English":  "Ideally the person is _."
+                               },
+                               {
+                                   "Bengali":  "তার রাজনৈতিক অবস্থান _।",
+                                   "English":  "The person\u0027s political position _."
+                               },
+                               {
+                                   "Bengali":  "নীতিগতভাবে তিনি _।",
+                                   "English":  "In principle the person is _."
+                               },
+                               {
+                                   "Bengali":  "রাজনীতিতে তিনি _ হিসেবে পরিচিত।",
+                                   "English":  "In politics, the person is known as _."
+                               },
+                               {
+                                   "Bengali":  "তার মতাদর্শ _।",
+                                   "English":  "The person\u0027s ideology _."
+                               }
+                           ],
+    "Personality":  [
+                        {
+                            "Bengali":  "স্বভাবে তিনি _।",
+                            "English":  "The person is _ by nature."
+                        },
+                        {
+                            "Bengali":  "ব্যক্তিত্বের দিক থেকে তিনি _।",
+                            "English":  "In terms of personality, the person is _."
+                        },
+                        {
+                            "Bengali":  "মানুষ হিসেবে তিনি _।",
+                            "English":  "As a person the person is _."
+                        },
+                        {
+                            "Bengali":  "তার ব্যক্তিত্ব _।",
+                            "English":  "The person\u0027s personality _."
+                        },
+                        {
+                            "Bengali":  "ব্যক্তিগত আচরণে তিনি _।",
+                            "English":  "In personal behavior the person is _."
+                        },
+                        {
+                            "Bengali":  "তার স্বভাব _।",
+                            "English":  "The person\u0027s nature _."
+                        }
+                    ],
+    "Public Perception":  [
+                              {
+                                  "Bengali":  "জনগণের কাছে তিনি _।",
+                                  "English":  "To the people the person is _."
+                              },
+                              {
+                                  "Bengali":  "মানুষ তাকে _ মনে করে।",
+                                  "English":  "People think of the person as _."
+                              },
+                              {
+                                  "Bengali":  "তিনি একজন _ নেতা হিসেবে পরিচিত।",
+                                  "English":  "The person is known as a _ leader."
+                              },
+                              {
+                                  "Bengali":  "জনমতে তিনি _।",
+                                  "English":  "According to public opinion, the person is _."
+                              },
+                              {
+                                  "Bengali":  "সাধারণ মানুষের কাছে তিনি _।",
+                                  "English":  "To the common people the person is _."
+                              },
+                              {
+                                  "Bengali":  "তার জনভাবমূর্তি _।",
+                                  "English":  "The person\u0027s public image _."
+                              }
+                          ]
+}
