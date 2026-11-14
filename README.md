@@ -1,6 +1,6 @@
-# Bangla PoliBias
+# Bangla-GenPoliBIAS
 
-Bangla PoliBias is a manually developed Bangla dataset for examining gender-related associations in political language models. It contains 2,279 prompts for generative models and 2,000 sentence probes for masked language models, plus supporting occupation and adjective lists. English-translated versions are included separately; translations were reviewed by the authors.
+Bangla-GenPoliBIAS is a manually developed Bangla dataset for examining gender-related associations in political language models. It contains 2,279 prompts for generative models and 2,000 sentence probes for masked language models, plus supporting occupation and adjective lists. English-translated versions are included separately; translations were reviewed by the authors.
 
 ## Files
 
@@ -12,7 +12,7 @@ Bangla PoliBias is a manually developed Bangla dataset for examining gender-rela
 
 Use of the dataset requires attribution to Akila Nipo and Md Musfique Anwar, a link to this repository and the license, and an indication of any changes. For research publications, please also acknowledge the authors and cite the associated manuscript:
 
-> Akila Nipo and Md Musfique Anwar, “Bangla PoliBias: A Dataset for Assessing Gender Bias in Language Models through Bangla Political Contexts.” Unpublished manuscript (not yet submitted).
+> Akila Nipo and Md Musfique Anwar, “Bangla-GenPoliBIAS: A Dataset for Assessing Gender Bias in Language Models through Bangla Political Contexts.” Unpublished manuscript.
 
 ## License
 
